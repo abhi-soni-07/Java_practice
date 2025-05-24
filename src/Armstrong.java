@@ -12,7 +12,7 @@ public class Armstrong {
         while(n>0)
         {
             count++;
-            n=n/10;
+            n=n/10;// logic
         }
         n=temp;
         while(n>0)
